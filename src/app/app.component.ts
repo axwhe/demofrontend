@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'SpringBoot 2 plus Angular 6';
+  description = 'Angular-SpringBoot Demo';
 }
